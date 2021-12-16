@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @davidakerr
 - 👀 I’m interested in making computers do my bidding
-- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on educational projects
 
 <!---
